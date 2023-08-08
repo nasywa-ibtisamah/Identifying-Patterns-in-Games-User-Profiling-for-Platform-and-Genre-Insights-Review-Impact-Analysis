@@ -86,10 +86,6 @@ The following are data preprocessing steps I did in this project:
 5. (reference dataset) How does sales vary from one platform to another?
 
 **Findings**
-
--   
-
-**Findings**
 - The platform with the highest sales in the year range 2013-2016 is PS4.
 - Based on the data from 2013 to 2016, all platforms experienced a downward trend.
 - The growth of PS4 can be considered very rapid within a span of 1 year (2013 - 2014).
