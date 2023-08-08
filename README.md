@@ -1,0 +1,1 @@
+# Finding-patterns-that-determine-if-a-game-is-successful-or-not
